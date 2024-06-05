@@ -1,6 +1,7 @@
 ---
 layout: page
 title: skills
+nav: true
 permalink: /skills/
 ---
 
