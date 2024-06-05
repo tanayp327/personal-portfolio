@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Jobify
+description: one stop shop for students
+img: assets/img/14.png
+redirect: https://men-in-brown.github.io/Jobify/
 importance: 1
 category: work
-related_publications: true
 ---
 
 Every project has a beautiful feature showcase page.
@@ -18,7 +18,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: /assets/img/14.png
     ---
 
 <div class="row">
