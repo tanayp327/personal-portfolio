@@ -14,7 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-An enthusiastic and motivated team player and student.
+An enthusiastic and motivated team player, leader, and student.
 
 <h4>Interests</h4>
   <ul>
